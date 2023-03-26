@@ -1,2 +1,2 @@
 # LearnVuJs
-Apprentisage de VuJS en se basant à la documentation 
+Apprentisage de VuJS en se basant sur la documentation 
